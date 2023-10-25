@@ -1,0 +1,4 @@
+Username:u
+Password:p
+
+Login page of Receptionist
